@@ -1,3 +1,5 @@
+# Isaac St Hubert Module 7.2 11/30/2025
+# This program displays data from the movies database
 
 import mysql.connector
 from mysql.connector import errorcode
